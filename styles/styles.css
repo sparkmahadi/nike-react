@@ -1,0 +1,19 @@
+:root{
+    --header-color: #FFF9F4;
+}
+
+header{
+    background-color: var(--header-color);
+}
+.nike-heading{
+    font-size: 4.5rem;
+}
+.penguin-color{
+    color: #FA804C;
+}
+.infinity-color{
+    color: #363958;
+}
+.button-color{
+    background-color: #3D4FF3;
+}
