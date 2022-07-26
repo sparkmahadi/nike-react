@@ -17,3 +17,10 @@ header{
 .button-color{
     background-color: #3D4FF3;
 }
+
+.card-bg{
+    background-color: #F1F1F1;
+}
+.card-rounded{
+    border-radius: 2rem !important;
+}
