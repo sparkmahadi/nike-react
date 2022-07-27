@@ -2,6 +2,10 @@
     --header-color: #FFF9F4;
 }
 
+body{
+    background-color: #E5E5E5;
+}
+
 header{
     background-color: var(--header-color);
 }
@@ -26,4 +30,7 @@ header{
 }
 .bottom-rounded-card{
     border-radius: 1.25rem !important;
+}
+.navbar-pengun{
+    width: 55%;
 }
