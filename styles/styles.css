@@ -24,3 +24,6 @@ header{
 .card-rounded{
     border-radius: 2rem !important;
 }
+.bottom-rounded-card{
+    border-radius: 1.25rem !important;
+}
